@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.RestAssuredSpotify" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-02T04:11:09" hostname="DESKTOP-5DOOE2D" time="4.238">
+  <properties/>
+  <testcase name="GetList_UserPlaylists_POST_REQUEST" classname="com.bridgelabz.RestAssuredSpotify" time="4.238"/>
+  <system-out><![CDATA[{
+    "error": {
+        "status": 401,
+        "message": "The access token expired"
+    }
+}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
